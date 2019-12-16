@@ -1,2 +1,4 @@
 # IaaS_LandPage
- Land page for our IaaS service
+Temporary Land page for our IaaS service
+
+![screenshot](img/Screenshot.png)
